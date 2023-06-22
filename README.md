@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duwiharyanto
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning Node and Go
 - 💞️ I’m looking to collaborate on NodeJs project
 - 📫 How to reach me haryanto.duwi@gmail.com
 
