@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm duwi haryanto</h1>
-<h3 align="center">Project manager with technical knowladge to building robust and scalable web applications using php,node.js</h3>
+<h3 align="center">Have technical knowledge to build powerful and scalable web applications using php,node.js</h3>
 
 - 🔭 I’m currently working on [UIIGateway](https://gateway.uii.ac.id/)
 
